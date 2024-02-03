@@ -1,5 +1,2 @@
 - 👋 Hi, I’m @concat1911
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning UE5
-- 💞️ I’m looking to collaborate on Unity Project
-- 📫 Email: nhatlinhtr95@gmail.com
